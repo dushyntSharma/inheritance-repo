@@ -9,4 +9,6 @@ public class AsianCat extends Cat {
 	public String getAnimalName() {
 		return "AsianCat";
 	}
+	
+	//commented for the master
 }
